@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07AD466E-DFF6-4766-B773-0C6D322CFC1A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D96837-E7E3-4E39-B679-3F2588FB50C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/CheckoutView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "placeOrder()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A421E0F0-466C-4CBF-BD5C-36331F24C323"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/qf/153gs5b96ngdvjfx_gksgv3m0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5OrderC7address18ObservationTrackedfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "A421E0F0-466C-4CBF-BD5C-36331F24C323 - 3d9c96849efb3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order._address.getter : CupcakeCorner.Address"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/qf/153gs5b96ngdvjfx_gksgv3m0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5OrderC7address18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A421E0F0-466C-4CBF-BD5C-36331F24C323 - eaf85c0e4197a701"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order._address.setter : CupcakeCorner.Address"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/qf/153gs5b96ngdvjfx_gksgv3m0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5OrderC7address18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A421E0F0-466C-4CBF-BD5C-36331F24C323 - f7e8e96af2664212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order._address.modify : CupcakeCorner.Address"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/qf/153gs5b96ngdvjfx_gksgv3m0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5OrderC7address18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A421E0F0-466C-4CBF-BD5C-36331F24C323 - b624198229f0a7cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order._address.modify : CupcakeCorner.Address with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ckroot/Developer/swift/CupcakeCorner/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
