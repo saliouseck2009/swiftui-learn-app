@@ -36,6 +36,9 @@ struct ProspectsView: View {
     var body: some View {
         NavigationStack{
                 ProspectListView(filter: filter, sortOrder: sortOrder, selectedProspects: $selectedProspects)
+                .onChange(of: sortOrder){
+                    print(sortOrder)
+                }
                 .navigationTitle(title)
                 .toolbar {
                     ToolbarItem(placement: .topBarTrailing) {
